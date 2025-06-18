@@ -1,4 +1,4 @@
-## 🧠 Tecnologias e Conceitos Aprendidos
+## 🧠 Tecnologias e Conceitos Utilizados
 
 - **Linguagens de Programação:**
   - Java
