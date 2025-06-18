@@ -1,25 +1,36 @@
-## 🧠 Tecnologias e Conceitos Utilizados
+<div style="display: flex; gap: 40px; justify-content: space-between; flex-wrap: wrap;">
 
-- **Linguagens de Programação:**
-  - Java
-  - SQL
+<div>
 
-- **Frameworks e Ferramentas:**
-  - Spring Boot
-  - JPA / Hibernate
-  - JDBC
-  - JavaFX
+### 🚀 Linguagens de Programação
+- Java  
+- SQL  
 
-- **Banco de Dados:**
-  - MySQL
-  - MongoDB
+### 🛠️ Frameworks e Ferramentas
+- Spring Boot  
+- JPA / Hibernate  
+- JDBC  
+- JavaFX  
 
-- **Conceitos:**
-  - Programação Orientada a Objetos (POO)
-  - Modelagem de Banco de Dados
-  - Desenvolvimento de APIs RESTful
-  - Microsserviços
-  - Desenvolvimento de Interfaces Gráficas com JavaFX
+</div>
+
+<div>
+
+### 🗄️ Banco de Dados
+- MySQL  
+- MongoDB  
+
+### 📚 Conceitos
+- Programação Orientada a Objetos (POO)  
+- Modelagem de Banco de Dados  
+- Desenvolvimento de APIs RESTful  
+- Microsserviços  
+- Desenvolvimento de Interfaces Gráficas com JavaFX  
+
+</div>
+
+</div>
+
 
 ---
 
@@ -40,4 +51,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mariaeduardaciarini@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/maria-eduarda-ciarini-b97ab6270/)
+
+---
+
+<a href="https://github.com/MariaEduardaCiarini/github-readme-stats" style="display:inline-block; transform:scale(0.8); transform-origin: top left;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaCiarini&layout=pie&bg_color=00000000&hide_border=true" />
+</a>
 
