@@ -1,36 +1,3 @@
-# 📚 Tecnologias  Utilizadas
-
-## 🛠️ Repositórios Fixados
-
-### 1. [webserviceNOSQL](https://github.com/MariaEduardaCiarini/webserviceNOSQL)
-- **Tecnologias:**
-  - Java
-  - Spring Boot
-  - MongoDB (NoSQL)
-  - Maven
-- **Descrição:** Projeto bônus que aplica conceitos de Spring Boot com banco de dados MongoDB, focando em desenvolvimento de web services e integração com NoSQL.
-
-### 2. [javajdbcmysql](https://github.com/MariaEduardaCiarini/javajdbcmysql)
-- **Tecnologias:**
-  - Java
-  - JDBC
-  - MySQL
-- **Descrição:** Projeto que utiliza JDBC para interação com banco de dados MySQL, explorando operações básicas de CRUD e conexão direta com o banco.
-
-### 3. [Microsservices](https://github.com/MariaEduardaCiarini/Microsservices)
-- **Tecnologias:**
-  - Java
-  - Spring Boot
-- **Descrição:** Curso de Microsserviços na prática, implementando soluções utilizando Java e Spring.
-
-### 4. [FrontJava](https://github.com/MariaEduardaCiarini/FrontJava)
-- **Tecnologias:**
-  - Java
-  - JavaFX
-- **Descrição:** Projeto de interface gráfica utilizando JavaFX.
-
----
-
 ## 🧠 Tecnologias e Conceitos Aprendidos
 
 - **Linguagens de Programação:**
@@ -74,7 +41,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/maria-eduarda-ciarini-b97ab6270/)
 
-
----
-
-*Este README foi elaborado para documentar as tecnologias aprendidas e utilizadas nos projetos fixados no GitHub de Maria Eduarda Ciarini.*
