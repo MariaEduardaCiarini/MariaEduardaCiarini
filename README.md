@@ -52,6 +52,6 @@
 ---
 
 <a href="https://github.com/MariaEduardaCiarini/github-readme-stats" style="display:inline-block; transform:scale(0.8); transform-origin: top left;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaCiarini&layout=pie&bg_color=00000000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaCiarini&layout=compact&bg_color=00000000&hide_border=true" />
 </a>
 
