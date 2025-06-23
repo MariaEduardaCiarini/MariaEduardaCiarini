@@ -9,8 +9,7 @@
 ### 🛠️ Frameworks e Ferramentas
 - Spring Boot  
 - JPA / Hibernate  
-- JDBC  
-- JavaFX  
+- JDBC   
 
 </div>
 
@@ -25,7 +24,6 @@
 - Modelagem de Banco de Dados  
 - Desenvolvimento de APIs RESTful  
 - Microsserviços  
-- Desenvolvimento de Interfaces Gráficas com JavaFX  
 
 </div>
 
@@ -42,7 +40,6 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-0C85D0?logo=java&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-0078D7?logo=java&logoColor=white)
 
 ---
 
