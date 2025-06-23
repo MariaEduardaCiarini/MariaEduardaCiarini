@@ -1,7 +1,3 @@
-<div style="display: flex; gap: 40px; justify-content: space-between; flex-wrap: wrap;">
-
-<div>
-
 ### 🚀 Linguagens de Programação
 - Java  
 - SQL  
