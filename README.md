@@ -55,10 +55,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaCiarini&langs_count=8&layout=compact&hide_border=true&bg_color=00000000)
-
----
-
 ## 📌 Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mariaeduardaciarini@gmail.com)  
