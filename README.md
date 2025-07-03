@@ -29,21 +29,6 @@
 
 ---
 
-## 📚 Conceitos
-
-- 🧠 Programação Orientada a Objetos (POO)  
-- 🧩 Modelagem de Banco de Dados  
-- 🌐 Desenvolvimento de APIs RESTful  
-- 🧬 Microsserviços  
-- 🐍 Pythonic Code e Boas Práticas  
-- 📊 Manipulação de Dados com Pandas e NumPy  
-- 🧪 Testes com `unittest`, `pytest`  
-- 🔁 Estruturas de controle, funções e módulos  
-- 🧱 Consumo de APIs com Python  
-- 🔄 Assíncrono com `async/await` (Python 3.7+)
-
----
-
 ## 📊 Estatísticas de Linguagens
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
