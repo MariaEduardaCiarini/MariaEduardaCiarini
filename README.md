@@ -39,5 +39,14 @@
 
 ## 📌 Contato
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:mariaeduardaciarini@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/maria-eduarda-ciarini-b97ab6270/)
+<p align="left">
+  <a href="mailto:mariaeduardaciarini@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat" height="30px" />
+  </a>
+  <a href="https://www.linkedin.com/in/maria-eduarda-ciarini-b97ab6270/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" height="30px" />
+  </a>
+  <a href="https://discord.com/channels/@Maria%20Eduarda%20Ciarini" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" height="30px" />
+  </a>
+</p>
