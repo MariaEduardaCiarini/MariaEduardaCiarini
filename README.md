@@ -49,3 +49,6 @@
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" height="30px" />
   </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaCiarini&layout=compact&theme=github_dark_dimmed&text_bold=true)](https://github.com/MariaEduardaCiarini/github-readme-stats)
+
