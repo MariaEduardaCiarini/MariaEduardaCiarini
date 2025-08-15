@@ -52,5 +52,5 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaCiarini&layout=compact&theme=github_dark_dimmed&text_bold=true)](https://github.com/MariaEduardaCiarini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaCiarini&layout=compact&theme=dark&text_bold=true)](https://github.com/MariaEduardaCiarini/github-readme-stats)
 
