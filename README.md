@@ -27,14 +27,16 @@
   <img src="https://img.shields.io/badge/-Django-092E20?style=plastic&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/-Django%20REST%20Framework-FF1709?style=plastic&logo=django&logoColor=white" alt="Django REST Framework" />
   <img src="https://img.shields.io/badge/-Ninja%20API-1B1F23?style=plastic&logo=fastapi&logoColor=white" alt="Ninja API" />
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/-Linux%20Commands-2C8EBB?style=plastic&logo=gnu-bash&logoColor=white" alt="Linux Commands" />
 </p>
+
+
 
 ### 🖥️ Operating Systems
 <p>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/-Windows-0078D6?style=plastic&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/-WSL-4D4D4D?style=plastic&logo=windows&logoColor=white" alt="WSL" />
-  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=plastic&logo=kali-linux&logoColor=white" alt="Kali Linux" />
 </p>
 
 ---
