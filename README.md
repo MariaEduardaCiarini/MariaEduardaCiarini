@@ -29,6 +29,10 @@
   <img src="https://img.shields.io/badge/-Ninja%20API-1B1F23?style=plastic&logo=fastapi&logoColor=white" alt="Ninja API" />
   <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/-Linux%20Commands-2C8EBB?style=plastic&logo=gnu-bash&logoColor=white" alt="Linux Commands" />
+  <img src="https://img.shields.io/badge/-AWS%20Cloud-232F3E?style=plastic&logo=amazon-aws&logoColor=FF9900" alt="AWS Cloud" />
+  <img src="https://img.shields.io/badge/-React-%2320232a?style=plastic&logo=react&logoColor=%2361DAFB" alt="React" />
+
+
 </p>
 
 
