@@ -71,19 +71,17 @@
 
 ---
 
+<!--
 <div align="center">
 
-<div align="center">
-
-  <!-- Estatísticas de Linguagens -->
   <a href="https://github.com/MariaEduardaCiarini">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaCiarini&layout=compact&langs_count=15&theme=dark&bg_color=11191f33&title_color=DB7093&text_color=2E8B57&icon_color=FFFF00&border_color=000000"/>
   </a>
 
-  <!-- Estatísticas Gerais -->
   <a href="https://github.com/MariaEduardaCiarini">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaEduardaCiarini&show_icons=true&theme=radical&count_private=true&bg_color=11191f33&title_color=DB7093&text_color=2E8B57&icon_color=FFFF00&border_color=000000"/>
   </a>
 
 </div>
+-->
 
