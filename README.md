@@ -54,22 +54,6 @@
   <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
 
----
-
-## 📌 Contact
-<p align="left">
-  <a href="mailto:mariaeduardaciarini@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=plastic" height="30px" />
-  </a>
-  <a href="https://www.linkedin.com/in/maria-eduarda-ciarini-b97ab6270/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic" height="30px" />
-  </a>
-  <a href="https://discord.com/channels/@Maria%20Eduarda%20Ciarini" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white" height="30px" />
-  </a>
-</p>
-
----
 
 <!--
 <div align="center">
