@@ -88,16 +88,10 @@ dados e explorar novas tecnologias no dia a dia.
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MariaEduardaCiarini&show_icons=true&theme=radical&count_private=true&bg_color=11191f&title_color=DB7093&text_color=E0E0E0&icon_color=FF9900&border_color=8A2BE2" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaCiarini&layout=compact&langs_count=8&theme=radical&bg_color=11191f&title_color=DB7093&text_color=E0E0E0&icon_color=FF9900&border_color=8A2BE2" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariaEduardaCiarini&theme=radical&background=11191f&stroke=8A2BE2&ring=DB7093&fire=FF9900&currStreakLabel=DB7093" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MariaEduardaCiarini&theme=radical&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
 </p>
 
 ---
