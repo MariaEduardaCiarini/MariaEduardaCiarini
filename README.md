@@ -1,38 +1,42 @@
-<h1 align="center">Maria Eduarda Ciarini 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=DB7093&center=true&vCenter=true&width=550&lines=Desenvolvedora+Jr+%7C+Suporte+Tecnico;Python+%7C+Java+%7C+Front-End;Analise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG" />
-</p>
+<!-- Nome em rosa neon (arquivo neon-name.svg na raiz do repositório) -->
+<img src="./neon-name.svg" alt="Maria Eduarda Ciarini" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Systems%20Analysis%20and%20Development-(Back--End)-8A2BE2?style=for-the-badge&logo=code&logoColor=white" alt="Badge SAD Backend" />
-  <img src="https://img.shields.io/badge/FIAP-2023–2025-DB7093?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="FIAP Badge" />
-</p>
+<!-- Texto digitando -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF5FC8&center=true&vCenter=true&width=550&lines=Desenvolvedora+Jr+%7C+Suporte+Tecnico;Python+%7C+Java+%7C+Front-End;Analise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/maria-eduarda-ciarini/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mariaeduardaciarini@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/MariaEduardaCiarini">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MariaEduardaCiarini&style=for-the-badge&color=db7093" alt="Profile views" />
-</p>
+<img src="https://img.shields.io/badge/Systems%20Analysis%20and%20Development-(Back--End)-8A2BE2?style=for-the-badge&logo=code&logoColor=white" alt="Badge SAD Backend" />
+<img src="https://img.shields.io/badge/FIAP-2023–2025-DB7093?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="FIAP Badge" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/maria-eduarda-ciarini/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:mariaeduardaciarini@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/MariaEduardaCiarini">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=MariaEduardaCiarini&style=for-the-badge&color=db7093" alt="Profile views" />
+
+</div>
 
 ---
 
-### 💡 Sobre mim
+<details open>
+<summary><b>💡 Sobre mim</b> <i>(clique para abrir/fechar)</i></summary>
 
-Formada em **Análise e Desenvolvimento de Sistemas** pela FIAP. Meu foco principal está em **Python e Java**,
-com interesse também em **Front-End**. Presto serviços como desenvolvedora **júnior** e  **suporte técnico**,
-e estou aberta para ajudar em novos projetos. Gosto de construir soluções práticas, trabalhar com bancos de
-dados e explorar novas tecnologias no dia a dia.
+<br/>
+
+Formada em **Análise e Desenvolvimento de Sistemas** pela FIAP. Meu foco principal está em **Python e Java**, com interesse também em **Front-End**. Presto serviços como desenvolvedora **júnior** e **suporte técnico**, e estou aberta para ajudar em novos projetos. Gosto de construir soluções práticas, trabalhar com bancos de dados e explorar novas tecnologias no dia a dia.
 
 - 🔭 Foco principal em **Python e Java**
 - 🎨 Também atuando com **Front-End**
@@ -40,18 +44,26 @@ dados e explorar novas tecnologias no dia a dia.
 - 💬 Pergunte-me sobre **Back-End, Front-End, APIs REST e Bancos de Dados**
 - 📫 Como me encontrar: veja os badges acima
 
+</details>
+
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
-### Linguagens de Programação
-<p>
+<details>
+<summary><b>💻 Linguagens de Programação</b></summary>
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### 🛠️ Frameworks e Ferramentas
-<p>
+</details>
+
+<details>
+<summary><b>🛠️ Frameworks e Ferramentas</b></summary>
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
   <img src="https://img.shields.io/badge/-JDBC-0C85D0?style=for-the-badge&logo=java&logoColor=white" alt="JDBC" />
@@ -68,8 +80,12 @@ dados e explorar novas tecnologias no dia a dia.
   <img src="https://img.shields.io/badge/-Linux-2C8EBB?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Linux Commands" />
 </p>
 
-### 🗄️ Bancos de Dados
-<p>
+</details>
+
+<details>
+<summary><b>🗄️ Bancos de Dados</b></summary>
+
+<p align="center">
   <img src="https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -77,25 +93,41 @@ dados e explorar novas tecnologias no dia a dia.
   <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
 
-### 🖥️ Sistemas Operacionais
-<p>
+</details>
+
+<details>
+<summary><b>🖥️ Sistemas Operacionais</b></summary>
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/-WSL-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" alt="WSL" />
 </p>
+
+</details>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariaEduardaCiarini&theme=radical&background=11191f&stroke=8A2BE2&ring=DB7093&fire=FF9900&currStreakLabel=DB7093" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MariaEduardaCiarini&theme=radical&background=11191f&stroke=8A2BE2&ring=DB7093&fire=FF9900&currStreakLabel=DB7093" alt="GitHub Streak" />
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MariaEduardaCiarini&show_icons=true&theme=radical&hide_border=true&bg_color=11191f&title_color=ff5fc8&icon_color=8A2BE2" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaCiarini&layout=compact&theme=radical&hide_border=true&bg_color=11191f&title_color=ff5fc8" alt="Top Languages" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>💜 Presto serviços como desenvolvedora júnior e em suporte técnico — estou aberta para ajudar.</i>
-</p>
+<div align="center">
+
+<i>💜 Presto serviços como desenvolvedora júnior e em suporte técnico — estou aberta para ajudar.</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
+</div>
